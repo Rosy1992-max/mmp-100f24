@@ -1,0 +1,30 @@
+body{background-color:#8774E7;
+    font-family: "Winky Rough", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
+h1{width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #F3CEDE;
+    color: #D51F6E ;
+    padding: 1em;
+} 
+h2{color: #F3CEDE;
+   width: 500px;
+   margin: 1em auto;
+   text-align: center;}
+h1, h2 {font-family: "National Park", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;} 
+img{display: block;
+     margin: 0 auto;}
+p,ol,li,a{
+    width: 500px;
+    margin: 0 auto;
+    color:#D2CBF6;}
+a{text-decoration:none;}
+a:hover{ color:#5148F3 ;}
+p.credits{font-size: 0.5em;}
+p.start{font-style: italic}
